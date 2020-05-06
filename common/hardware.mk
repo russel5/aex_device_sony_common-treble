@@ -25,8 +25,8 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth.audio@2.0-impl
 
 ### CAMERA
-PRODUCT_PACKAGES += \
-    Snap
+#PRODUCT_PACKAGES += \
+#    Snap
 
 ### CHARGER
 PRODUCT_PACKAGES += \
