@@ -19,8 +19,8 @@ PRODUCT_PACKAGES += \
     audio.usb.default
 
 ### CAMERA
-PRODUCT_PACKAGES += \
-    Snap
+#PRODUCT_PACKAGES += \
+#    Snap
 
 ### CHARGER
 PRODUCT_PACKAGES += \
